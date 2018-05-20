@@ -1,0 +1,20 @@
+{
+	"ipset": "bi_exim_1_7d",
+	"started": 1512342184000,
+	"updated": 1520394343000,
+	"incomplete": 0,
+	"past": {
+		"hours": [ 
+			162,
+			334 ],
+		"ips": [ 
+			1,
+			1 ],
+		"total": 2
+	},
+	"current": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	}
+}

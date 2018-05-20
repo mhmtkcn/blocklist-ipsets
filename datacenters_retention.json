@@ -1,0 +1,20 @@
+{
+	"ipset": "datacenters",
+	"started": 1524057853000,
+	"updated": 1524668139000,
+	"incomplete": 1,
+	"past": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	},
+	"current": {
+		"hours": [ 
+			0,
+			170 ],
+		"ips": [ 
+			346419,
+			85597562 ],
+		"total": 85943981
+	}
+}

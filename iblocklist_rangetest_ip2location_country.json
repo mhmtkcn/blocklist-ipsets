@@ -1,0 +1,194 @@
+[
+	{
+		"code": "AE",
+		"value": 3584
+	},
+	{
+		"code": "AL",
+		"value": 8
+	},
+	{
+		"code": "AR",
+		"value": 256
+	},
+	{
+		"code": "AT",
+		"value": 768
+	},
+	{
+		"code": "BR",
+		"value": 14
+	},
+	{
+		"code": "BW",
+		"value": 10
+	},
+	{
+		"code": "BY",
+		"value": 107
+	},
+	{
+		"code": "CA",
+		"value": 115712
+	},
+	{
+		"code": "CN",
+		"value": 1613
+	},
+	{
+		"code": "COUNTRYLESS",
+		"value": 8960
+	},
+	{
+		"code": "CY",
+		"value": 512
+	},
+	{
+		"code": "CZ",
+		"value": 17437
+	},
+	{
+		"code": "DE",
+		"value": 166176
+	},
+	{
+		"code": "DK",
+		"value": 16384
+	},
+	{
+		"code": "DM",
+		"value": 1024
+	},
+	{
+		"code": "ES",
+		"value": 2066
+	},
+	{
+		"code": "FR",
+		"value": 249856
+	},
+	{
+		"code": "GB",
+		"value": 35328
+	},
+	{
+		"code": "GR",
+		"value": 4
+	},
+	{
+		"code": "HK",
+		"value": 16384
+	},
+	{
+		"code": "ID",
+		"value": 8192
+	},
+	{
+		"code": "IE",
+		"value": 32768
+	},
+	{
+		"code": "IL",
+		"value": 519
+	},
+	{
+		"code": "IN",
+		"value": 122893
+	},
+	{
+		"code": "IR",
+		"value": 4096
+	},
+	{
+		"code": "IT",
+		"value": 512
+	},
+	{
+		"code": "JP",
+		"value": 2102
+	},
+	{
+		"code": "KE",
+		"value": 5
+	},
+	{
+		"code": "KH",
+		"value": 4096
+	},
+	{
+		"code": "KR",
+		"value": 16384
+	},
+	{
+		"code": "KZ",
+		"value": 1280
+	},
+	{
+		"code": "LB",
+		"value": 512
+	},
+	{
+		"code": "LU",
+		"value": 8
+	},
+	{
+		"code": "NL",
+		"value": 35848
+	},
+	{
+		"code": "PH",
+		"value": 44
+	},
+	{
+		"code": "PL",
+		"value": 1296
+	},
+	{
+		"code": "RO",
+		"value": 2048
+	},
+	{
+		"code": "RU",
+		"value": 13084
+	},
+	{
+		"code": "SA",
+		"value": 4096
+	},
+	{
+		"code": "SC",
+		"value": 1792
+	},
+	{
+		"code": "SE",
+		"value": 1344
+	},
+	{
+		"code": "SG",
+		"value": 1280
+	},
+	{
+		"code": "TH",
+		"value": 131072
+	},
+	{
+		"code": "TW",
+		"value": 73746
+	},
+	{
+		"code": "UA",
+		"value": 1572
+	},
+	{
+		"code": "UG",
+		"value": 4
+	},
+	{
+		"code": "US",
+		"value": 3137882
+	},
+	{
+		"code": "UZ",
+		"value": 1024
+	}
+]

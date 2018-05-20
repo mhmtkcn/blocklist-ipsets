@@ -1,0 +1,20 @@
+{
+	"ipset": "bi_dovecot-pop3imap_2_30d",
+	"started": 1512342181000,
+	"updated": 1527050918000,
+	"incomplete": 0,
+	"past": {
+		"hours": [ 
+			194,
+			921 ],
+		"ips": [ 
+			1,
+			1 ],
+		"total": 2
+	},
+	"current": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	}
+}

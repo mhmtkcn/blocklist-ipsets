@@ -1,0 +1,16 @@
+{
+	"ipset": "bi_sip_2_30d",
+	"started": 1512342242000,
+	"updated": 1513561544000,
+	"incomplete": 0,
+	"past": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	},
+	"current": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	}
+}

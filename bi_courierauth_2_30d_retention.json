@@ -1,0 +1,16 @@
+{
+	"ipset": "bi_courierauth_2_30d",
+	"started": 1512342163000,
+	"updated": 1513474240000,
+	"incomplete": 0,
+	"past": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	},
+	"current": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	}
+}

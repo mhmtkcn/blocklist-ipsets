@@ -1,0 +1,20 @@
+{
+	"ipset": "iblocklist_exclusions",
+	"started": 1440210616000,
+	"updated": 1524177018000,
+	"incomplete": 1,
+	"past": {
+		"hours": [  ],
+		"ips": [  ],
+		"total": 0
+	},
+	"current": {
+		"hours": [ 
+			578,
+			23902 ],
+		"ips": [ 
+			60,
+			7427 ],
+		"total": 7487
+	}
+}
